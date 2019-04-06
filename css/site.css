@@ -77,8 +77,8 @@ a.github-link:hover {
 .project-img {
   max-width: 100%;
   margin: 0;
-  width:200;
-  height:100;
+  width:400px;
+  height:200px;
 }
 
 .project-description {
