@@ -59,7 +59,7 @@ a.github-link:hover {
   line-height: 1.2;
 }
 
-.hero {
+.intro {
   margin-bottom: 30px;
   width: 100%;
   height: auto;
@@ -122,7 +122,7 @@ a.github-link:hover {
     font-size: 18px;
   }
 
-  .hero {
+  .intro {
     margin-bottom: 20px;
   }
 
